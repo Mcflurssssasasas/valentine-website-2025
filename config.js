@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "dah kelar belomm tugas ama propon gamanyaa?",                                    // First interaction
+            text: "dah kelar belomm tugas ama propo gamanyaa?",                                    // First interaction
             yesBtn: "udahhh",                                             // Text for "Yes" button
             noBtn: "belommm",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
